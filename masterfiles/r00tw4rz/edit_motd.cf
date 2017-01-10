@@ -20,7 +20,7 @@ bundle agent edit_motd
 
 bundle edit_line addmessage
 {
-  insert_lines:
+  insert_lines:"
                 ****     ****        *                                  *****                                 
                *    *   *    *      **     **                          **  ***   
               **    ** **    **     **     **                         **   ***                              
